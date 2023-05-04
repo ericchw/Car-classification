@@ -1,0 +1,11 @@
+keras==2.9.0
+matplotlib==3.6.2
+numpy==1.22.2
+opencv_python==4.5.5.64
+pandas==2.0.0
+Pillow==9.5.0
+seaborn==0.12.2
+torch==1.11.0
+torchsummary==1.5.1
+torchvision==0.12.0+cu113
+Pillow==9.0.1

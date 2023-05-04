@@ -1,0 +1,577 @@
+./DATA/test\bmw serie 1\back13.jpg: bmw serie 1
+./DATA/test\bmw serie 1\back17.jpg: bmw serie 1
+./DATA/test\bmw serie 1\back25.jpg: bmw serie 1
+./DATA/test\bmw serie 1\back34.jpg: bmw serie 1
+./DATA/test\bmw serie 1\back39.jpg: bmw serie 1
+./DATA/test\bmw serie 1\back5.jpg: bmw serie 1
+./DATA/test\bmw serie 1\back9.jpg: bmw serie 1
+./DATA/test\bmw serie 1\car0.jpg: bmw serie 1
+./DATA/test\bmw serie 1\car17.jpg: bmw serie 1
+./DATA/test\bmw serie 1\car19.jpg: bmw serie 1
+./DATA/test\bmw serie 1\car27.jpg: bmw serie 1
+./DATA/test\bmw serie 1\car35.jpg: bmw serie 1
+./DATA/test\bmw serie 1\car39.jpg: bmw serie 1
+./DATA/test\bmw serie 1\car5.jpg: bmw serie 1
+./DATA/test\chevrolet spark\back50.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back52.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back57.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back70.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back72.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back74.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back76.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back78.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back87.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back88.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back89.jpg: chevrolet spark
+./DATA/test\chevrolet spark\back92.jpg: chevrolet spark
+./DATA/test\chevrolet spark\car44.jpg: chevrolet spark
+./DATA/test\chevrolet spark\car49.jpg: chevrolet spark
+./DATA/test\chevrolet spark\car53.jpg: chevrolet spark
+./DATA/test\chevrolet spark\car61.jpg: chevrolet spark
+./DATA/test\chevrolet spark\car65.jpg: chevrolet spark
+./DATA/test\chevrolet spark\car82.jpg: chevrolet spark
+./DATA/test\chevrolet spark\car85.jpg: chevrolet spark
+./DATA/test\chevroulet aveo\back104.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back112.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back117.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back121.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back128.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back137.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back140.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back141.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back146.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back154.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\back98.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car109.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car111.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car113.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car114.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car119.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car122.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car129.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car134.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car145.jpg: logan
+./DATA/test\chevroulet aveo\car149.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car151.jpg: chevroulet aveo
+./DATA/test\chevroulet aveo\car96.jpg: chevroulet aveo
+./DATA/test\clio\back175.jpg: clio
+./DATA/test\clio\back183.jpg: clio
+./DATA/test\clio\back189.jpg: clio
+./DATA/test\clio\back194.jpg: clio
+./DATA/test\clio\back198.jpg: clio
+./DATA/test\clio\back201.jpg: clio
+./DATA/test\clio\back202.jpg: clio
+./DATA/test\clio\back205.jpg: clio
+./DATA/test\clio\back206.jpg: clio
+./DATA/test\clio\back212.jpg: clio
+./DATA/test\clio\back217.jpg: clio
+./DATA/test\clio\back226.jpg: clio
+./DATA/test\clio\back228.jpg: clio
+./DATA/test\clio\back230.jpg: clio
+./DATA/test\clio\back233.jpg: clio
+./DATA/test\clio\back241.jpg: clio
+./DATA/test\clio\back256.jpg: clio
+./DATA/test\clio\back259.jpg: clio
+./DATA/test\clio\back262.jpg: clio
+./DATA/test\clio\back263.jpg: clio
+./DATA/test\clio\back266.jpg: clio
+./DATA/test\clio\back269.jpg: clio
+./DATA/test\clio\back290.jpg: clio
+./DATA/test\clio\back292.jpg: clio
+./DATA/test\clio\back297.jpg: clio
+./DATA/test\clio\back306.jpg: clio
+./DATA/test\clio\back308.jpg: clio
+./DATA/test\clio\back315.jpg: clio
+./DATA/test\clio\back321.jpg: clio
+./DATA/test\clio\car160.jpg: clio
+./DATA/test\clio\car170.jpg: clio
+./DATA/test\clio\car172.jpg: megane
+./DATA/test\clio\car175.jpg: clio
+./DATA/test\clio\car176.jpg: clio
+./DATA/test\clio\car179.jpg: clio
+./DATA/test\clio\car181.jpg: clio
+./DATA/test\clio\car184.jpg: clio
+./DATA/test\clio\car188.jpg: clio
+./DATA/test\clio\car193.jpg: clio
+./DATA/test\clio\car195.jpg: clio
+./DATA/test\clio\car204.jpg: megane
+./DATA/test\clio\car218.jpg: clio
+./DATA/test\clio\car224.jpg: clio
+./DATA/test\clio\car226.jpg: clio
+./DATA/test\clio\car241.jpg: clio
+./DATA/test\clio\car261.jpg: clio
+./DATA/test\clio\car264.jpg: clio
+./DATA/test\clio\car269.jpg: clio
+./DATA/test\clio\car272.jpg: clio
+./DATA/test\clio\car278.jpg: clio
+./DATA/test\clio\car288.jpg: clio
+./DATA/test\clio\car291.jpg: clio
+./DATA/test\clio\car293.jpg: clio
+./DATA/test\clio\car294.jpg: clio
+./DATA/test\clio\car296.jpg: clio
+./DATA/test\clio\car304.jpg: clio
+./DATA/test\clio\car308.jpg: clio
+./DATA/test\clio\car310.jpg: clio
+./DATA/test\clio\car312.jpg: clio
+./DATA/test\clio\car319.jpg: clio
+./DATA/test\clio\car322.jpg: clio
+./DATA/test\clio\car329.jpg: clio
+./DATA/test\duster\back336.jpg: duster
+./DATA/test\duster\back338.jpg: duster
+./DATA/test\duster\back341.jpg: duster
+./DATA/test\duster\back347.jpg: duster
+./DATA/test\duster\back352.jpg: duster
+./DATA/test\duster\back358.jpg: duster
+./DATA/test\duster\back362.jpg: duster
+./DATA/test\duster\back366.jpg: duster
+./DATA/test\duster\back367.jpg: duster
+./DATA/test\duster\back370.jpg: duster
+./DATA/test\duster\back371.jpg: duster
+./DATA/test\duster\back377.jpg: duster
+./DATA/test\duster\back386.jpg: duster
+./DATA/test\duster\back393.jpg: duster
+./DATA/test\duster\back400.jpg: duster
+./DATA/test\duster\back404.jpg: duster
+./DATA/test\duster\back417.jpg: duster
+./DATA/test\duster\back421.jpg: duster
+./DATA/test\duster\back424.jpg: duster
+./DATA/test\duster\back438.jpg: duster
+./DATA/test\duster\back441.jpg: duster
+./DATA/test\duster\back448.jpg: duster
+./DATA/test\duster\back457.jpg: duster
+./DATA/test\duster\back462.jpg: mercedes class a
+./DATA/test\duster\back470.jpg: duster
+./DATA/test\duster\car341.jpg: duster
+./DATA/test\duster\car352.jpg: duster
+./DATA/test\duster\car362.jpg: duster
+./DATA/test\duster\car363.jpg: duster
+./DATA/test\duster\car368.jpg: duster
+./DATA/test\duster\car371.jpg: duster
+./DATA/test\duster\car382.jpg: duster
+./DATA/test\duster\car383.jpg: duster
+./DATA/test\duster\car391.jpg: duster
+./DATA/test\duster\car394.jpg: duster
+./DATA/test\duster\car399.jpg: duster
+./DATA/test\duster\car406.jpg: duster
+./DATA/test\duster\car410.jpg: duster
+./DATA/test\duster\car415.jpg: duster
+./DATA/test\duster\car428.jpg: duster
+./DATA/test\duster\car434.jpg: duster
+./DATA/test\duster\car435.jpg: duster
+./DATA/test\duster\car439.jpg: duster
+./DATA/test\duster\car441.jpg: duster
+./DATA/test\duster\car442.jpg: duster
+./DATA/test\duster\car454.jpg: duster
+./DATA/test\duster\car459.jpg: duster
+./DATA/test\duster\car460.jpg: duster
+./DATA/test\duster\car461.jpg: duster
+./DATA/test\duster\car463.jpg: Golf
+./DATA/test\Golf\back476.jpg: Golf
+./DATA/test\Golf\back477.jpg: Golf
+./DATA/test\Golf\back478.jpg: Golf
+./DATA/test\Golf\back481.jpg: Golf
+./DATA/test\Golf\back483.jpg: Golf
+./DATA/test\Golf\back492.jpg: Golf
+./DATA/test\Golf\back494.jpg: Golf
+./DATA/test\Golf\back502.jpg: Golf
+./DATA/test\Golf\back509.jpg: Golf
+./DATA/test\Golf\back514.jpg: Golf
+./DATA/test\Golf\back518.jpg: Golf
+./DATA/test\Golf\back519.jpg: Golf
+./DATA/test\Golf\back524.jpg: Golf
+./DATA/test\Golf\back526.jpg: Golf
+./DATA/test\Golf\back535.jpg: Golf
+./DATA/test\Golf\back541.jpg: Golf
+./DATA/test\Golf\back549.jpg: Golf
+./DATA/test\Golf\car474.jpg: Golf
+./DATA/test\Golf\car493.jpg: Golf
+./DATA/test\Golf\car498.jpg: Golf
+./DATA/test\Golf\car500.jpg: Golf
+./DATA/test\Golf\car504.jpg: Golf
+./DATA/test\Golf\car518.jpg: Golf
+./DATA/test\Golf\car519.jpg: Golf
+./DATA/test\Golf\car520.jpg: Golf
+./DATA/test\Golf\car521.jpg: Golf
+./DATA/test\Golf\car525.jpg: Golf
+./DATA/test\Golf\car545.jpg: Golf
+./DATA/test\Golf\car546.jpg: Golf
+./DATA/test\hyundai i10\back553.jpg: hyundai i10
+./DATA/test\hyundai i10\back561.jpg: hyundai i10
+./DATA/test\hyundai i10\back567.jpg: hyundai i10
+./DATA/test\hyundai i10\back570.jpg: hyundai i10
+./DATA/test\hyundai i10\back574.jpg: hyundai i10
+./DATA/test\hyundai i10\back576.jpg: hyundai i10
+./DATA/test\hyundai i10\back583.jpg: hyundai i10
+./DATA/test\hyundai i10\back594.jpg: hyundai i10
+./DATA/test\hyundai i10\back599.jpg: hyundai i10
+./DATA/test\hyundai i10\back605.jpg: hyundai i10
+./DATA/test\hyundai i10\back606.jpg: hyundai i10
+./DATA/test\hyundai i10\car556.jpg: hyundai i10
+./DATA/test\hyundai i10\car564.jpg: hyundai i10
+./DATA/test\hyundai i10\car576.jpg: hyundai i10
+./DATA/test\hyundai i10\car581.jpg: hyundai i10
+./DATA/test\hyundai i10\car584.jpg: hyundai i10
+./DATA/test\hyundai i10\car590.jpg: hyundai i10
+./DATA/test\hyundai i10\car597.jpg: hyundai i10
+./DATA/test\hyundai i10\car600.jpg: hyundai i10
+./DATA/test\hyundai i10\car608.jpg: hyundai i10
+./DATA/test\hyundai i10\car612.jpg: hyundai i10
+./DATA/test\hyundai i10\car613.jpg: hyundai i10
+./DATA/test\hyundai i10\car614.jpg: hyundai i10
+./DATA/test\hyundai tucson\back620.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back625.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back635.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back641.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back644.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back646.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back654.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back662.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back666.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back667.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back668.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back669.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back671.jpg: hyundai tucson
+./DATA/test\hyundai tucson\back676.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car624.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car625.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car627.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car635.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car638.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car645.jpg: polo
+./DATA/test\hyundai tucson\car647.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car658.jpg: hyundai tucson
+./DATA/test\hyundai tucson\car663.jpg: hyundai tucson
+./DATA/test\logan\back682.jpg: logan
+./DATA/test\logan\back685.jpg: logan
+./DATA/test\logan\back700.jpg: sandero
+./DATA/test\logan\back703.jpg: logan
+./DATA/test\logan\back705.jpg: logan
+./DATA/test\logan\back711.jpg: logan
+./DATA/test\logan\back718.jpg: logan
+./DATA/test\logan\back724.jpg: logan
+./DATA/test\logan\back725.jpg: logan
+./DATA/test\logan\back730.jpg: sandero
+./DATA/test\logan\back736.jpg: logan
+./DATA/test\logan\car681.jpg: logan
+./DATA/test\logan\car690.jpg: logan
+./DATA/test\logan\car691.jpg: logan
+./DATA/test\logan\car696.jpg: logan
+./DATA/test\logan\car700.jpg: sandero
+./DATA/test\logan\car712.jpg: logan
+./DATA/test\logan\car716.jpg: logan
+./DATA/test\logan\car719.jpg: logan
+./DATA/test\logan\car729.jpg: logan
+./DATA/test\megane\back737.jpg: megane
+./DATA/test\megane\back742.jpg: megane
+./DATA/test\megane\back751.jpg: megane
+./DATA/test\megane\back753.jpg: megane
+./DATA/test\megane\back754.jpg: megane
+./DATA/test\megane\back755.jpg: megane
+./DATA/test\megane\back758.jpg: megane
+./DATA/test\megane\back763.jpg: megane
+./DATA/test\megane\back767.jpg: megane
+./DATA/test\megane\back774.jpg: megane
+./DATA/test\megane\back778.jpg: megane
+./DATA/test\megane\back784.jpg: megane
+./DATA/test\megane\back789.jpg: megane
+./DATA/test\megane\back792.jpg: megane
+./DATA/test\megane\back806.jpg: megane
+./DATA/test\megane\back821.jpg: megane
+./DATA/test\megane\back836.jpg: megane
+./DATA/test\megane\back855.jpg: megane
+./DATA/test\megane\back856.jpg: megane
+./DATA/test\megane\back860.jpg: megane
+./DATA/test\megane\back868.jpg: megane
+./DATA/test\megane\back872.jpg: megane
+./DATA/test\megane\car749.jpg: megane
+./DATA/test\megane\car752.jpg: megane
+./DATA/test\megane\car757.jpg: megane
+./DATA/test\megane\car767.jpg: megane
+./DATA/test\megane\car768.jpg: megane
+./DATA/test\megane\car771.jpg: megane
+./DATA/test\megane\car779.jpg: megane
+./DATA/test\megane\car783.jpg: megane
+./DATA/test\megane\car790.jpg: megane
+./DATA/test\megane\car791.jpg: megane
+./DATA/test\megane\car799.jpg: megane
+./DATA/test\megane\car802.jpg: megane
+./DATA/test\megane\car803.jpg: megane
+./DATA/test\megane\car805.jpg: megane
+./DATA/test\megane\car809.jpg: megane
+./DATA/test\megane\car811.jpg: megane
+./DATA/test\megane\car814.jpg: megane
+./DATA/test\megane\car817.jpg: megane
+./DATA/test\megane\car818.jpg: megane
+./DATA/test\megane\car821.jpg: megane
+./DATA/test\megane\car828.jpg: megane
+./DATA/test\megane\car830.jpg: megane
+./DATA/test\megane\car839.jpg: megane
+./DATA/test\megane\car848.jpg: megane
+./DATA/test\megane\car852.jpg: megane
+./DATA/test\megane\car859.jpg: megane
+./DATA/test\megane\car863.jpg: megane
+./DATA/test\megane\car876.jpg: megane
+./DATA/test\mercedes class a\back879.jpg: mercedes class a
+./DATA/test\mercedes class a\back882.jpg: mercedes class a
+./DATA/test\mercedes class a\back883.jpg: mercedes class a
+./DATA/test\mercedes class a\back891.jpg: mercedes class a
+./DATA/test\mercedes class a\back892.jpg: mercedes class a
+./DATA/test\mercedes class a\back900.jpg: mercedes class a
+./DATA/test\mercedes class a\back913.jpg: mercedes class a
+./DATA/test\mercedes class a\back916.jpg: mercedes class a
+./DATA/test\mercedes class a\car878.jpg: mercedes class a
+./DATA/test\mercedes class a\car880.jpg: mercedes class a
+./DATA/test\mercedes class a\car886.jpg: mercedes class a
+./DATA/test\mercedes class a\car897.jpg: mercedes class a
+./DATA/test\mercedes class a\car898.jpg: mercedes class a
+./DATA/test\mercedes class a\car901.jpg: mercedes class a
+./DATA/test\mercedes class a\car911.jpg: mercedes class a
+./DATA/test\nemo citroen\back920.jpg: nemo citroen
+./DATA/test\nemo citroen\back923.jpg: nemo citroen
+./DATA/test\nemo citroen\back928.jpg: nemo citroen
+./DATA/test\nemo citroen\back929.jpg: nemo citroen
+./DATA/test\nemo citroen\back936.jpg: nemo citroen
+./DATA/test\nemo citroen\back940.jpg: nemo citroen
+./DATA/test\nemo citroen\back948.jpg: nemo citroen
+./DATA/test\nemo citroen\back950.jpg: nemo citroen
+./DATA/test\nemo citroen\car931.jpg: nemo citroen
+./DATA/test\nemo citroen\car935.jpg: nemo citroen
+./DATA/test\nemo citroen\car946.jpg: nemo citroen
+./DATA/test\nemo citroen\car947.jpg: nemo citroen
+./DATA/test\nemo citroen\car951.jpg: nemo citroen
+./DATA/test\nemo citroen\car956.jpg: nemo citroen
+./DATA/test\octavia\back1001.jpg: octavia
+./DATA/test\octavia\back1004.jpg: octavia
+./DATA/test\octavia\back1012.jpg: octavia
+./DATA/test\octavia\back1015.jpg: octavia
+./DATA/test\octavia\back1019.jpg: octavia
+./DATA/test\octavia\back1021.jpg: octavia
+./DATA/test\octavia\back1023.jpg: octavia
+./DATA/test\octavia\back1026.jpg: octavia
+./DATA/test\octavia\back1032.jpg: octavia
+./DATA/test\octavia\back965.jpg: octavia
+./DATA/test\octavia\back969.jpg: octavia
+./DATA/test\octavia\back973.jpg: octavia
+./DATA/test\octavia\back975.jpg: octavia
+./DATA/test\octavia\back986.jpg: octavia
+./DATA/test\octavia\back990.jpg: octavia
+./DATA/test\octavia\back999.jpg: octavia
+./DATA/test\octavia\car1018.jpg: octavia
+./DATA/test\octavia\car1022.jpg: octavia
+./DATA/test\octavia\car1024.jpg: octavia
+./DATA/test\octavia\car1026.jpg: octavia
+./DATA/test\octavia\car1027.jpg: octavia
+./DATA/test\octavia\car1028.jpg: octavia
+./DATA/test\octavia\car968.jpg: octavia
+./DATA/test\octavia\car971.jpg: octavia
+./DATA/test\octavia\car984.jpg: octavia
+./DATA/test\octavia\car985.jpg: octavia
+./DATA/test\octavia\car988.jpg: octavia
+./DATA/test\octavia\car997.jpg: octavia
+./DATA/test\picanto\back1050.jpg: picanto
+./DATA/test\picanto\back1051.jpg: picanto
+./DATA/test\picanto\back1057.jpg: picanto
+./DATA/test\picanto\back1059.jpg: picanto
+./DATA/test\picanto\back1061.jpg: picanto
+./DATA/test\picanto\back1072.jpg: picanto
+./DATA/test\picanto\back1081.jpg: picanto
+./DATA/test\picanto\back1091.jpg: picanto
+./DATA/test\picanto\back1094.jpg: picanto
+./DATA/test\picanto\back1096.jpg: symbol
+./DATA/test\picanto\back1103.jpg: picanto
+./DATA/test\picanto\back1105.jpg: picanto
+./DATA/test\picanto\back1106.jpg: picanto
+./DATA/test\picanto\back1119.jpg: picanto
+./DATA/test\picanto\back1120.jpg: symbol
+./DATA/test\picanto\back1123.jpg: picanto
+./DATA/test\picanto\back1133.jpg: picanto
+./DATA/test\picanto\back1134.jpg: picanto
+./DATA/test\picanto\back1138.jpg: picanto
+./DATA/test\picanto\back1139.jpg: picanto
+./DATA/test\picanto\back1140.jpg: picanto
+./DATA/test\picanto\car1042.jpg: picanto
+./DATA/test\picanto\car1049.jpg: picanto
+./DATA/test\picanto\car1055.jpg: picanto
+./DATA/test\picanto\car1067.jpg: picanto
+./DATA/test\picanto\car1074.jpg: picanto
+./DATA/test\picanto\car1089.jpg: picanto
+./DATA/test\picanto\car1090.jpg: picanto
+./DATA/test\picanto\car1091.jpg: picanto
+./DATA/test\picanto\car1095.jpg: picanto
+./DATA/test\picanto\car1101.jpg: picanto
+./DATA/test\picanto\car1103.jpg: picanto
+./DATA/test\polo\back1141.jpg: polo
+./DATA/test\polo\back1146.jpg: polo
+./DATA/test\polo\back1153.jpg: polo
+./DATA/test\polo\back1156.jpg: polo
+./DATA/test\polo\back1157.jpg: polo
+./DATA/test\polo\back1168.jpg: polo
+./DATA/test\polo\back1169.jpg: polo
+./DATA/test\polo\back1173.jpg: polo
+./DATA/test\polo\back1177.jpg: polo
+./DATA/test\polo\back1181.jpg: polo
+./DATA/test\polo\back1182.jpg: polo
+./DATA/test\polo\back1190.jpg: polo
+./DATA/test\polo\back1196.jpg: polo
+./DATA/test\polo\back1204.jpg: polo
+./DATA/test\polo\car1130.jpg: polo
+./DATA/test\polo\car1132.jpg: polo
+./DATA/test\polo\car1133.jpg: polo
+./DATA/test\polo\car1141.jpg: polo
+./DATA/test\polo\car1146.jpg: polo
+./DATA/test\polo\car1149.jpg: polo
+./DATA/test\polo\car1153.jpg: polo
+./DATA/test\polo\car1160.jpg: polo
+./DATA/test\polo\car1164.jpg: polo
+./DATA/test\sandero\back1216.jpg: sandero
+./DATA/test\sandero\back1221.jpg: sandero
+./DATA/test\sandero\back1223.jpg: logan
+./DATA/test\sandero\back1226.jpg: sandero
+./DATA/test\sandero\back1228.jpg: sandero
+./DATA/test\sandero\back1229.jpg: sandero
+./DATA/test\sandero\back1240.jpg: sandero
+./DATA/test\sandero\back1243.jpg: sandero
+./DATA/test\sandero\back1244.jpg: sandero
+./DATA/test\sandero\back1251.jpg: sandero
+./DATA/test\sandero\back1265.jpg: logan
+./DATA/test\sandero\back1275.jpg: sandero
+./DATA/test\sandero\back1278.jpg: sandero
+./DATA/test\sandero\back1283.jpg: sandero
+./DATA/test\sandero\back1284.jpg: sandero
+./DATA/test\sandero\back1287.jpg: sandero
+./DATA/test\sandero\back1289.jpg: sandero
+./DATA/test\sandero\back1291.jpg: sandero
+./DATA/test\sandero\back1301.jpg: sandero
+./DATA/test\sandero\back1306.jpg: sandero
+./DATA/test\sandero\back1308.jpg: sandero
+./DATA/test\sandero\back1311.jpg: sandero
+./DATA/test\sandero\back1316.jpg: sandero
+./DATA/test\sandero\back1318.jpg: sandero
+./DATA/test\sandero\back1321.jpg: sandero
+./DATA/test\sandero\back1336.jpg: sandero
+./DATA/test\sandero\car1178.jpg: sandero
+./DATA/test\sandero\car1182.jpg: sandero
+./DATA/test\sandero\car1193.jpg: logan
+./DATA/test\sandero\car1195.jpg: sandero
+./DATA/test\sandero\car1199.jpg: Golf
+./DATA/test\sandero\car1203.jpg: sandero
+./DATA/test\sandero\car1207.jpg: sandero
+./DATA/test\sandero\car1225.jpg: sandero
+./DATA/test\sandero\car1226.jpg: sandero
+./DATA/test\sandero\car1236.jpg: sandero
+./DATA/test\sandero\car1237.jpg: sandero
+./DATA/test\sandero\car1248.jpg: sandero
+./DATA/test\sandero\car1252.jpg: sandero
+./DATA/test\sandero\car1256.jpg: sandero
+./DATA/test\sandero\car1271.jpg: sandero
+./DATA/test\sandero\car1274.jpg: sandero
+./DATA/test\sandero\car1280.jpg: sandero
+./DATA/test\sandero\car1295.jpg: sandero
+./DATA/test\sandero\car1300.jpg: sandero
+./DATA/test\sandero\car1302.jpg: sandero
+./DATA/test\seat ibiza\back1338.jpg: seat ibiza
+./DATA/test\seat ibiza\back1353.jpg: mercedes class a
+./DATA/test\seat ibiza\back1358.jpg: seat ibiza
+./DATA/test\seat ibiza\back1363.jpg: seat ibiza
+./DATA/test\seat ibiza\back1364.jpg: seat ibiza
+./DATA/test\seat ibiza\back1367.jpg: seat ibiza
+./DATA/test\seat ibiza\back1369.jpg: seat ibiza
+./DATA/test\seat ibiza\back1378.jpg: seat ibiza
+./DATA/test\seat ibiza\back1381.jpg: seat ibiza
+./DATA/test\seat ibiza\car1309.jpg: seat ibiza
+./DATA/test\seat ibiza\car1312.jpg: seat ibiza
+./DATA/test\seat ibiza\car1314.jpg: seat ibiza
+./DATA/test\seat ibiza\car1317.jpg: seat ibiza
+./DATA/test\seat ibiza\car1319.jpg: seat ibiza
+./DATA/test\seat ibiza\car1322.jpg: mercedes class a
+./DATA/test\seat ibiza\car1343.jpg: seat ibiza
+./DATA/test\seat ibiza\car1348.jpg: seat ibiza
+./DATA/test\seat ibiza\car1355.jpg: seat ibiza
+./DATA/test\symbol\back1387.jpg: symbol
+./DATA/test\symbol\back1393.jpg: symbol
+./DATA/test\symbol\back1401.jpg: symbol
+./DATA/test\symbol\back1404.jpg: symbol
+./DATA/test\symbol\back1412.jpg: symbol
+./DATA/test\symbol\back1413.jpg: symbol
+./DATA/test\symbol\back1418.jpg: symbol
+./DATA/test\symbol\back1426.jpg: symbol
+./DATA/test\symbol\back1429.jpg: symbol
+./DATA/test\symbol\back1436.jpg: symbol
+./DATA/test\symbol\back1439.jpg: symbol
+./DATA/test\symbol\back1442.jpg: symbol
+./DATA/test\symbol\back1446.jpg: symbol
+./DATA/test\symbol\back1448.jpg: symbol
+./DATA/test\symbol\back1450.jpg: chevroulet aveo
+./DATA/test\symbol\back1457.jpg: symbol
+./DATA/test\symbol\back1458.jpg: symbol
+./DATA/test\symbol\back1462.jpg: symbol
+./DATA/test\symbol\back1473.jpg: symbol
+./DATA/test\symbol\car1361.jpg: symbol
+./DATA/test\symbol\car1364.jpg: symbol
+./DATA/test\symbol\car1370.jpg: symbol
+./DATA/test\symbol\car1383.jpg: polo
+./DATA/test\symbol\car1384.jpg: symbol
+./DATA/test\symbol\car1389.jpg: symbol
+./DATA/test\symbol\car1390.jpg: symbol
+./DATA/test\symbol\car1413.jpg: symbol
+./DATA/test\symbol\car1415.jpg: symbol
+./DATA/test\toyota corolla\back1481.jpg: toyota corolla
+./DATA/test\toyota corolla\back1483.jpg: toyota corolla
+./DATA/test\toyota corolla\back1485.jpg: toyota corolla
+./DATA/test\toyota corolla\back1489.jpg: toyota corolla
+./DATA/test\toyota corolla\back1490.jpg: toyota corolla
+./DATA/test\toyota corolla\back1513.jpg: toyota corolla
+./DATA/test\toyota corolla\back1515.jpg: toyota corolla
+./DATA/test\toyota corolla\back1522.jpg: toyota corolla
+./DATA/test\toyota corolla\back1525.jpg: toyota corolla
+./DATA/test\toyota corolla\back1528.jpg: toyota corolla
+./DATA/test\toyota corolla\back1531.jpg: toyota corolla
+./DATA/test\toyota corolla\back1538.jpg: toyota corolla
+./DATA/test\toyota corolla\back1542.jpg: toyota corolla
+./DATA/test\toyota corolla\car1424.jpg: toyota corolla
+./DATA/test\toyota corolla\car1427.jpg: toyota corolla
+./DATA/test\toyota corolla\car1440.jpg: toyota corolla
+./DATA/test\toyota corolla\car1447.jpg: toyota corolla
+./DATA/test\toyota corolla\car1450.jpg: toyota corolla
+./DATA/test\toyota corolla\car1452.jpg: toyota corolla
+./DATA/test\toyota corolla\car1453.jpg: toyota corolla
+./DATA/test\toyota corolla\car1461.jpg: toyota corolla
+./DATA/test\toyota corolla\car1469.jpg: toyota corolla
+./DATA/test\toyota corolla\car1477.jpg: toyota corolla
+./DATA/test\toyota corolla\car1478.jpg: toyota corolla
+./DATA/test\toyota corolla\car1481.jpg: toyota corolla
+./DATA/test\toyota corolla\car1492.jpg: toyota corolla
+./DATA/test\toyota corolla\car1496.jpg: toyota corolla
+./DATA/test\volkswagen tiguan\back1560.jpg: polo
+./DATA/test\volkswagen tiguan\back1565.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1575.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1576.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1581.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1583.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1585.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1593.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1602.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1609.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1611.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1615.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1620.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1625.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1627.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1628.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\back1631.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1498.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1505.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1509.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1521.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1526.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1528.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1529.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1530.jpg: logan
+./DATA/test\volkswagen tiguan\car1536.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1537.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1539.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1564.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1575.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1577.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1578.jpg: volkswagen tiguan
+./DATA/test\volkswagen tiguan\car1585.jpg: volkswagen tiguan
