@@ -1,0 +1,20 @@
+bmw serie 1 : 45
+chevrolet spark : 59
+chevroulet aveo : 71
+clio : 186
+duster : 152
+Golf : 87
+hyundai i10 : 71
+hyundai tucson : 70
+logan : 61
+megane : 152
+mercedes class a : 46
+nemo citroen : 44
+octavia : 85
+picanto : 97
+polo : 72
+sandero : 141
+seat ibiza : 54
+symbol : 86
+toyota corolla : 82
+volkswagen tiguan : 100

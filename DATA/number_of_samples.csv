@@ -1,0 +1,21 @@
+,Name of class,Number of files,,train,val,test
+0,bmw serie 1,74,,45,15,14
+1,chevrolet spark,98,,59,20,19
+2,chevroulet aveo,117,,71,23,23
+3,clio,310,,186,62,62
+4,duster,252,,152,50,50
+5,Golf,145,,87,29,29
+6,hyundai i10,117,,71,23,23
+7,hyundai tucson,116,,70,23,23
+8,logan,101,,61,20,20
+9,megane,252,,152,50,50
+10,mercedes class a,76,,46,15,15
+11,nemo citroen,73,,44,15,14
+12,octavia,141,,85,28,28
+13,picanto,161,,97,32,32
+14,polo,119,,72,24,23
+15,sandero,234,,141,47,46
+16,seat ibiza,90,,54,18,18
+17,symbol,143,,86,29,28
+18,toyota corolla,136,,82,27,27
+19,volkswagen tiguan,166,,100,33,33
